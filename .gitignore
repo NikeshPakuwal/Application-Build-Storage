@@ -1,0 +1,4 @@
+__pycache__
+ABSenv/
+media/*
+db.sqlite3

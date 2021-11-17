@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-filter==2.4.0
+PyJWT==2.1.0
+django-cors-headers==3.8.0
+Markdown==3.3.4
+WeasyPrint==53.3
+requests
+openpyxl==3.0.9
